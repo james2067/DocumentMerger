@@ -1,0 +1,7 @@
+C:\Users\james\source\repos\DocumentMergerChallenge\DocumentMergerChallenge\obj\Debug\DocumentMergerChallenge.csprojAssemblyReference.cache
+C:\Users\james\source\repos\DocumentMergerChallenge\DocumentMergerChallenge\obj\Debug\DocumentMergerChallenge.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\DocumentMergerChallenge\DocumentMergerChallenge\bin\Debug\DocumentMergerChallenge.exe.config
+C:\Users\james\source\repos\DocumentMergerChallenge\DocumentMergerChallenge\bin\Debug\DocumentMergerChallenge.exe
+C:\Users\james\source\repos\DocumentMergerChallenge\DocumentMergerChallenge\bin\Debug\DocumentMergerChallenge.pdb
+C:\Users\james\source\repos\DocumentMergerChallenge\DocumentMergerChallenge\obj\Debug\DocumentMergerChallenge.exe
+C:\Users\james\source\repos\DocumentMergerChallenge\DocumentMergerChallenge\obj\Debug\DocumentMergerChallenge.pdb
